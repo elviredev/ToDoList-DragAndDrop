@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ToDoList-DragAndDrop/static/css/main.be95891e.chunk.css",
+    "main.js": "/ToDoList-DragAndDrop/static/js/main.acb3e4d9.chunk.js",
+    "main.js.map": "/ToDoList-DragAndDrop/static/js/main.acb3e4d9.chunk.js.map",
+    "runtime-main.js": "/ToDoList-DragAndDrop/static/js/runtime-main.35a1a59a.js",
+    "runtime-main.js.map": "/ToDoList-DragAndDrop/static/js/runtime-main.35a1a59a.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/ToDoList-DragAndDrop/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f8996bb8.chunk.js": "/ToDoList-DragAndDrop/static/js/2.f8996bb8.chunk.js",
+    "static/js/2.f8996bb8.chunk.js.map": "/ToDoList-DragAndDrop/static/js/2.f8996bb8.chunk.js.map",
+    "index.html": "/ToDoList-DragAndDrop/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/ToDoList-DragAndDrop/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.be95891e.chunk.css.map": "/ToDoList-DragAndDrop/static/css/main.be95891e.chunk.css.map",
+    "static/js/2.f8996bb8.chunk.js.LICENSE.txt": "/ToDoList-DragAndDrop/static/js/2.f8996bb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35a1a59a.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f8996bb8.chunk.js",
+    "static/css/main.be95891e.chunk.css",
+    "static/js/main.acb3e4d9.chunk.js"
+  ]
+}
